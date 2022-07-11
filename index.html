@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Klimb Assignment</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap" rel="stylesheet">
+  <!-- CSS only -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar bg-dark">
+    <div class="container-fluid">
+      <span class="navbar-brand mb-0 h1" style="color:white; font-family: 'Gentium Book Plus', serif;">Add from
+        excel</span>
+    </div>
+  </nav>
+  <br><br>
+  <h4 style="margin-left:30px ;font-family: 'Gentium Book Plus', serif;">Add Candidates to database</h4><br>
+  <div style="border: thick solid black; margin:40px;padding:30px;text-Align:center;border-radius: 20px;">
+    <form action="/uploadfile" enctype="multipart/form-data" method="post">
+      <input type="file" name="uploadfile"
+        accept='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel'
+        style="border-radius: 20px; font-size: 24px; border:  solid rgb(0, 0, 0);font-family: 'Gentium Book Plus', serif;"><br><br><br>
+      <input type="submit" value="Upload Excel"
+        style="background-color:#509933; border-radius: 20px; font-size: 24px; color:white;font-family: 'Gentium Book Plus', serif;">
+    </form>
+  </div><br><br><br>
+  <p style="text-align:center;font-family: 'Gentium Book Plus', serif;">Made by Khushi</p>
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
