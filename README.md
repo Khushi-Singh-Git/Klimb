@@ -1,6 +1,8 @@
 # :paperclip: Klimb.io
+
 A node.js application to add candidate records from Excel to mongo database
 
+![2022-07-11-22-34-59-trim_kZzA1y0t](https://user-images.githubusercontent.com/107871742/178325696-86656f14-c841-418f-af6d-9fe248c7b5d6.gif)
 
 ## :closed_book:  Objective
 
@@ -100,5 +102,7 @@ View the records in raw form or in table form
 ![Screenshot (3749)](https://user-images.githubusercontent.com/107871742/178323883-ad0d2ef1-938f-4392-ae5d-469223f8b3d0.png)
 
 
+### Full Video Demo
 
+![2022-07-11-22-34-59-trim_kZzA1y0t](https://user-images.githubusercontent.com/107871742/178325804-91222232-823f-4903-aa0e-6403e7ee899e.gif)
 
