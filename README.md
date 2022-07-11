@@ -57,3 +57,30 @@ A node.js application to add candidate records from Excel to mongo database
 ## :closed_book: API Response
 
 ● Return success if excel is processed
+
+# Developed Solution
+
+● Designed a Node.js application to add candidate records from Excel and it gets added to MongoDB
+
+## Steps
+
+### :one: Landing Page
+
+This is the landing page of the website.
+
+![Screenshot (3742)](https://user-images.githubusercontent.com/107871742/178321664-ea74146c-a81d-4200-ac45-10871f92ecb9.png)
+
+### :two: Choose File
+
+Choose the file by clicking on "choose file".
+
+![Screenshot (3743)](https://user-images.githubusercontent.com/107871742/178322066-ddc09ace-ebd7-4743-8718-1c53a2f6a0a8.png)
+![Screenshot (3745)](https://user-images.githubusercontent.com/107871742/178322139-7a35a0c6-61f3-44c1-bdba-9f6cc3a6ac13.png)
+
+
+### :three: Upload Excel
+
+Upload the excel file in .csv format by selecting the file
+
+
+
